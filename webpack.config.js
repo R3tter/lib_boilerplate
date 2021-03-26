@@ -12,6 +12,7 @@ module.exports = {
       }
     ]
   },
+  mode: 'production',
   resolve: {
     extensions: ['.js', '.ts'],
     alias: {
